@@ -1,0 +1,14 @@
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\bin\Debug\net6.0\cours.exe
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\bin\Debug\net6.0\cours.deps.json
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\bin\Debug\net6.0\cours.runtimeconfig.json
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\bin\Debug\net6.0\cours.dll
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\bin\Debug\net6.0\cours.pdb
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\cours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\cours.AssemblyInfoInputs.cache
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\cours.AssemblyInfo.cs
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\cours.csproj.CoreCompileInputs.cache
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\cours.dll
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\refint\cours.dll
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\cours.pdb
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\cours.genruntimeconfig.cache
+C:\Users\33788\source\repos\CodeSharon\projet-csharp\cours\obj\Debug\net6.0\ref\cours.dll
